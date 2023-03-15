@@ -1,0 +1,23 @@
+//20 random sentences from chatGPT
+const sentence = [
+  "The cat sat lazily on the windowsill, watching the birds fly by.",
+  "It was a dark and stormy night, but the brave knight was determined to complete his mission.",
+  "The smell of freshly baked bread filled the air as the baker removed his latest creation from the oven.",
+  "The sound of the waves crashing against the shore was soothing to the woman sitting on the beach.",
+  "The old man smiled as he watched his grandchildren playing in the park, their laughter echoing through the trees.",
+  "The leaves rustled in the wind, creating a calming melody in the otherwise silent forest.",
+  "The basketball bounced off the rim and into the hands of the opposing team, who cheered in victory.",
+  "The train chugged along the tracks, its whistle blowing in warning as it approached the crossing.",
+  "The sky was a beautiful shade of pink and orange as the sun set behind the mountains.",
+  "The baby giggled as her mother tickled her belly, her chubby little arms flailing in delight.",
+  "The waiter brought out the steaming hot pizza, the aroma making the customers' mouths water.",
+  "The sound of the violin filled the concert hall, the musician's fingers moving expertly over the strings.",
+  "The snowflakes fell gently from the sky, covering the ground in a blanket of white.",
+  "The room was quiet except for the sound of the clock ticking away the seconds.",
+  "The little girl twirled in her new dress, the skirt billowing out around her.",
+  "The scent of roses filled the air as the couple walked through the garden hand in hand.",
+  "The car sped down the empty highway, the driver's foot heavy on the gas pedal.",
+  "The sound of the baby crying echoed through the house, waking up the tired parents.",
+  "The butterfly landed delicately on the flower, its wings opening and closing as it drank the nectar.",
+  "The computer beeped as the program finished running, the results displayed on the screen.",
+];
